@@ -4,11 +4,15 @@
 
 다양한 난이도와 유형의 문제에 대한 솔루션을 찾아보고, 자신만의 해결 방법도 기여해 보세요.
 
+<br/>
+
 ## 목적
 
 - 알고리즘 문제 해결 능력 향상
 - 동료 학습을 통한 지식 공유
 - 코딩 테스트 및 면접 준비
+
+<br/>
 
 ## 사용 방법
 
@@ -45,6 +49,8 @@ CONTRIBUTING 작성 예정
 자세한 기여 가이드라인은 `CONTRIBUTING.md` 파일을 참고해 주세요.
 -->
 
+<br/>
+
 ## 문의
 
 리포지토리에 대한 질문이나 제안이 있다면, [이슈](https://github.com/JangHwanPark/intern-solutions/issues)를 통해 알려주세요.
@@ -55,4 +61,10 @@ CONTRIBUTING 작성 예정
 이 리포지토리의 모든 솔루션은 [MIT 라이선스](./LICENSE) 하에 공개되어 있습니다.
 -->
 
-![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=<JangHwanPark>.<intern-solutions>)
+<br/>
+
+<div align="right">
+  
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJangHwanPark%2Fintern-solutions&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
+</div>
